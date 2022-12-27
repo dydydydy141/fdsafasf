@@ -1,3 +1,3 @@
-ù‚Æ CTRL+C ® ¢ ¨†©≠• CTRL+V
+–≠—Ç–æ CTRL+C –∏ –≤ –º–∞–π–Ω–µ CTRL+V
 
-/minecraft:give @s minecraft:written_book{Author:"Ä≠Æ≠®¨„·",Title:"ä≠®Ë™†",pages:['{"translate":"translation.test.invalid"}']}
+/minecraft:give @s minecraft:written_book{Author:"–ê–Ω–æ–Ω–∏–º—É—Å",Title:"–ö–Ω–∏—à–∫–∞",pages:['{"translate":"translation.test.invalid"}']}
