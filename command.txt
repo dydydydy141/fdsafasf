@@ -1,0 +1,3 @@
+Это CTRL+C и в майне CTRL+V
+
+/minecraft:give @s minecraft:written_book{Author:"Анонимус",Title:"Книшка",pages:['{"translate":"translation.test.invalid"}']}
